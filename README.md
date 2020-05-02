@@ -8,3 +8,7 @@ Note: I've got the idea of making this git repository from  [TIL](https://github
 * [Python](#python)
 * [Linux](#linux)
 * [Machine Learning](#ML)
+
+
+## Python
+- [Measure Time To Run Code](Python/1-calcTime.md)
