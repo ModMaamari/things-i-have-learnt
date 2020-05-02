@@ -23,6 +23,8 @@ print(f"Consumed Time = {end-start} seconds")
 ```
 Out : ``` Consumed Time = 3.002717971801758 seconds ```
 
-You can make it even prettier by rounding the time by changing the print line to ``` print(f"Consumed Time = {round(end-start,2)} seconds") ```
+You can make it even prettier by rounding the time by changing the print line to :
+
+``` print(f"Consumed Time = {round(end-start,2)} seconds") ```
 
 Out : ``` Consumed Time = 3.00 seconds ```
