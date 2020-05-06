@@ -8,7 +8,7 @@
 Example:
 In the next example I assumed that a dictionary xdic is passed from flask to the HTML template and I will use it to select a default value for a <select> tag
 
-<pre><code>
+```html
 <div class="form-group">
 <label for="function">Function</label>
 <select class="form-control" name ="function" id="function">
@@ -19,6 +19,6 @@ In the next example I assumed that a dictionary xdic is passed from flask to the
 <option value = csc {{"selected" if xdic["csc"]}}>Csc</option>
 </select>
 </div>
-</code></pre>
+```
 
 In the passed dictionary we should have only one function(sin or cos ... etc) that has True as its value.
