@@ -7,6 +7,7 @@
 
 Example:
 In the next example I assumed that a dictionary xdic is passed from flask to the HTML template and I will use it to select a default value for a <select> tag
+
 ```
 <div class="form-group">
     <label for="function">Function</label>
